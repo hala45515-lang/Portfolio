@@ -25,7 +25,7 @@ const NavBar = () => {
         <div className="flex justify-between items-center ">
         <a href="#home">
   <h1 className="text-2xl sm:text-xl md:text-2xl bg-gradient-to-r from-[#5c0c59]
-   to-white bg-clip-text text-transparent font-bold">Portfolio</h1>
+   to-white bg-clip-text text-transparent font-bold">HALA ATTAR</h1>
 </a>
 
         {/* mobile menu Toggle */}

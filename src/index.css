@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    overflow-x: hidden;
+   max-width: 100%;
+}
+.header{
+   max-width: 100%;
+}
+html{
+    scroll-behavior: smooth;
+}

@@ -110,7 +110,7 @@ const Footer = () => {
             <a
               href="#contact"
               className="bg-purple-600 hover:bg-purple-700 px-8 py-3 flex justify-center items-center
-              rounded-full font-semibold shadow-lg transition transform hover:scale-105 w-20"
+              rounded-full font-semibold shadow-lg transition transform hover:scale-105 w-40"
             >
               Let's Talk
             </a>

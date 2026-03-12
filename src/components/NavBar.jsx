@@ -22,7 +22,7 @@ const NavBar = () => {
       items-center justify-between mt-0">
         {/* logo */}
 
-        <div className="flex  items-center ">
+        <div className="flex justify-between items-center ">
         <a href="#home">
   <h1 className="text-2xl sm:text-xl md:text-2xl bg-gradient-to-r from-[#5c0c59]
    to-white bg-clip-text text-transparent font-bold">Portfolio</h1>

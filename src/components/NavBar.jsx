@@ -30,7 +30,7 @@ const NavBar = () => {
 
         {/* mobile menu Toggle */}
         <button
-          className= {`lg:hidden focus:outline-none text-white`}
+          className= {`lg:hidden focus:outline-none text-white z-999 `}
           onClick={() => setIsOpen(!isOpen)}
         >
           <FiMenu className="h-8 w-8" />

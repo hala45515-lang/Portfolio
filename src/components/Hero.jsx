@@ -58,7 +58,8 @@ const Hero = () => {
           </a>
         </section>
         <figure data-aos="fade-up" data-aos-delay="500" className=" flex justify-center md:justify-end mt-0">
-          <img src={girlphoto} alt="Hero Image" className="h-[350px] w-[450px] sm:h-[400px] md:w-[400px] md:h-[480px] sm:w-[380px]
+          <img src={girlphoto} alt="Hero Image" className="h-[450px] w-[450px]
+           sm:h-[400px] md:w-[400px] md:h-[480px] sm:w-[400px]
           object-center rounded-lg"/>
         </figure>
       </main>

@@ -68,7 +68,7 @@ export default function Projects() {
     },
     {
         image: DigitalOclock,
-        title: "Digital Oclock",
+        title: "Digital Clock",
         description:
           "A clean and minimal digital clock that displays real-time hours, minutes, and seconds.",
         link: "https://digital-clock-one-rosy.vercel.app/",
